@@ -21,8 +21,8 @@ Step 6: Display message give in Main Activity file.
 Step 7: Save and run the application.
 ## PROGRAM :
 ```
-DEVELOPED BY : M Gautham
-REG.NO   : 212221230027.
+DEVELOPED BY : M Hari Krishna
+REG.NO   : 212221230059.
 ```
 
 ### Activity_layout.xml
